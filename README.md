@@ -9,3 +9,5 @@ The things we're most interested in are:
  * What changes would you make, and why? (45 min)
    * Anything goes.
    * This is a conversation, not a test, there are no right or wrong answers
+
+We also want to know what the candidate's thoughts, assumptions and questions are.
